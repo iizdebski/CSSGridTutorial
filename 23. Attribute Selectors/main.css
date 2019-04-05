@@ -1,0 +1,18 @@
+
+
+
+a[href]{
+    background-color: red;
+}
+
+/*a[href="#"]{
+    background-color: yellow;
+}*/
+
+a[href="index.html"]{
+    background-color: yellow;
+}
+
+a[href$=http]{
+    background-color:pink;
+}

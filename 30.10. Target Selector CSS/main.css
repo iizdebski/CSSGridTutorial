@@ -1,0 +1,12 @@
+
+
+:target{
+    background-color: black;
+    color:white;
+    font-size:35px;
+}
+
+p:not(:target){
+    font-size:10px;
+    opacity:0.3;
+}

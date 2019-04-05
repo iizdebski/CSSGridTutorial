@@ -1,0 +1,21 @@
+
+
+/*
+pseudo class selectors
+*/
+
+a:hover{
+    color:red;
+}
+
+a:active{
+    background-color: green;
+}
+
+input:hover{
+   background-color:blue;
+}
+
+input:focus{
+    border: 5px solid red;
+}

@@ -1,0 +1,20 @@
+
+
+.box{
+    width:150px;
+    height: 150px;
+    background-color: blue;
+
+    transition: background-color 3s 2s, border-radius 2s 1s;
+    
+    /*
+    transition-property: background-color, border-radius;
+    transition-duration: 7s, 10s;  
+    transition-delay: 2s;
+    */
+}
+
+.box:hover{
+    background-color:red;
+    border-radius: 50%;
+}

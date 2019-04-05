@@ -1,0 +1,49 @@
+
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    margin:20px;
+}
+
+.skew{
+    background-color: red;
+    transition: transform 3s, background-color 4s;
+}
+
+.skew:hover{
+    background-color: chartreuse;
+    transform: skewY(-20deg);
+}
+
+.scale{    
+        background-color: blue;
+        transition: transform 3s, background-color 4s;
+}
+
+.scale:hover{
+    background-color: yellow;
+    transform: scale(2,2);
+}
+
+.rotate{
+    background-color: blueviolet;
+    transition: transform 3s, background-color 4s;
+}
+
+.rotate:hover{
+    background-color: cornflowerblue;
+    transform: rotate(-90deg);
+}
+.translate{
+    background-color:darkolivegreen;
+    transition: transform 3s, background-color 4s;
+}
+
+.translate:hover{
+    background-color: crimson;
+    /*transform: translateX(-100px);
+    transform: translateY(-100px);*/
+    transform: translateX(100px) rotate(360deg);
+}

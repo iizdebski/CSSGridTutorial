@@ -1,0 +1,14 @@
+
+
+/*
+h1{
+    border-color: aqua red black bisque;
+    border-style:ridge;
+    border-style: groove;
+    border-width:10px 20px 5px 25px;
+}
+*/
+
+h1{
+  border-top: 10px solid grey;
+}

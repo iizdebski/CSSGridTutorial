@@ -1,0 +1,13 @@
+
+
+.first{
+    font-size:30px;
+    text-transform:uppercase;
+    letter-spacing:0.5em;
+}
+
+.second{
+    font-size: 2em;
+    text-transform: capitalize;
+    word-spacing:0.5em;
+}

@@ -1,0 +1,28 @@
+
+
+/*h1{
+    background-color: aqua;
+}
+
+h2{
+    background-color: crimson;
+}
+p{
+    background-color: yellow;
+}*/
+
+
+/*
+*{
+    background-color:aqua;
+}
+*/
+
+*{
+    padding:0;
+    margin:0;
+}
+
+body{
+    background-color:yellow;
+}

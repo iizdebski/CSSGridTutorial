@@ -1,0 +1,41 @@
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 20px;
+    transition: transform 2s ease-in-out;    
+}
+
+.box:hover{
+    transform: translate(150px);
+}
+
+
+/*.ease{   
+    transition-timing-function: ease;
+      default slow end slow start 
+}
+
+
+.linear{
+    transition-timing-function:linear;
+      same speed 
+}
+
+.ease-in{
+    transition-timing-function: ease-in;
+    start slow end fast 
+}
+
+.ease-out{
+    transition-timing-function: ease-out;
+     start fast end fast 
+}
+
+.ease-in-out{
+    transition-timing-function: ease-in-out;
+    start slow end slower than ease 
+}*/
+

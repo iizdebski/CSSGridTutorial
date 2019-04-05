@@ -1,0 +1,11 @@
+
+/*
+type selectors
+*/
+
+h1,
+p,
+h3{
+    background-color:green;
+    font-size:25px;
+}

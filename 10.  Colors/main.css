@@ -1,0 +1,20 @@
+
+body{
+    background-color: #3b5998;
+}
+
+
+h1{
+    color:chocolate;
+    font-size:15px;
+    background-color:rgb(255, 255, 255);
+}
+p{
+    color:#F15025;
+    background-color: rgba(0,0,0);
+    font-size:30px;
+}
+
+.opacity{
+    background-color: rgba(0,0,0,0.1);
+}

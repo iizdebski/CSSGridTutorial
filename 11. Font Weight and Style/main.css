@@ -1,0 +1,15 @@
+
+body{
+    font-style:italic;
+}
+
+
+p{
+    font-size:30px;
+}
+
+.bold{
+    font-weight:900;
+    /*font-style:italic;*/
+    font-style:oblique;
+}

@@ -1,0 +1,12 @@
+
+/*
+:first line  :first letter
+*/
+
+p::first-line{
+    color:red;
+}
+
+.first::first-letter{
+    font-size:40px;
+}

@@ -1,0 +1,23 @@
+
+
+/*
+ul:first-of-type{
+    font-size: 40px;
+}
+*/
+
+li:first-of-type{
+    font-size: 40px;
+}
+
+li:last-of-type{
+    font-size: 40px;
+}
+
+li:nth-of-type(3n+1){
+    background-color: yellow;
+}
+
+li:nth-of-type(3n){
+    background-color: red;
+}

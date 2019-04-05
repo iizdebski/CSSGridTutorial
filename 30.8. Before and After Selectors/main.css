@@ -1,0 +1,15 @@
+/*
+Before After Selectors
+*/
+
+p::after{
+    content:"NEW";
+}
+
+p::before{
+    content:"";
+    width:100px;
+    height:100px;
+    background-color:red;
+    display:block;
+}

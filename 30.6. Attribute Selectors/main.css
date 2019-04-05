@@ -1,0 +1,23 @@
+/*
+Attribute Selectors
+*/
+
+a[href]{
+    background-color: red;   
+}
+
+a[href="#"]{
+    font-size:30px;
+}
+
+a[href^="http"]{
+    background-color:green;
+}
+
+a[href$=".com"]{
+    background-color: yellow;
+}
+
+a[href$="html"]{
+    font-size:40px;
+}

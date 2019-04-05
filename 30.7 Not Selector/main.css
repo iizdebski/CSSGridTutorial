@@ -1,0 +1,21 @@
+
+/*
+:not selector
+*/
+
+/*p:not([class]){
+    font-size:40px;
+}*/
+
+p:not(.special){
+    font-size:30px;
+    background-color: black;
+}
+
+.red{
+    color:red;
+}
+
+.green{
+    color:green;
+}

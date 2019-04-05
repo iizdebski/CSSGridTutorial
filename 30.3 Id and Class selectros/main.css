@@ -1,0 +1,21 @@
+
+
+/*
+id and class selectors
+*/
+
+#main{
+    background-color: red;
+    font-size:30px;
+}
+
+.red{
+    background-color:black;
+    color:red;
+}
+
+
+.green{
+    background-color:black;
+    color:green;
+}
